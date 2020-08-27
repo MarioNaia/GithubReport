@@ -1,5 +1,5 @@
 # GithubReport
-Simple app to show repositories
+Simple app to show repositories made in Java in Android Studio
 
 
 
